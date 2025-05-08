@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.Android_Gelistirme_Bootcamp" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="android:colorBackground">#DCD4D4</item>
+        <item name="android:textColor">#000000</item> <!-- opsiyonel -->
+    </style>
+
+
+    <style name="Theme.Android_Gelistirme_Bootcamp" parent="Base.Theme.Android_Gelistirme_Bootcamp" />
+</resources>
